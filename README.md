@@ -1,4 +1,4 @@
-# Gitcodes
+# Binary Checkboard
 Python programs
 
-A simple program to print a binary checkboard pattern fom python using matrix and numpy modules.
+A simple *Python* program to print a binary checkboard pattern using **matrix** and **Numpy** modules.
