@@ -1,4 +1,5 @@
 # Binary Checkboard
-Python programs
 
-A simple *Python* program to print a binary checkboard pattern using **matrix** and **Numpy** modules.
+A simple **Python** program to print a `binary number` Checkboard pattern using **matrix** and **Numpy** modules.
+
+--------------------------
